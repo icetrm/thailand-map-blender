@@ -1,4 +1,4 @@
-# Thailan map with blender.
+# Thailand map with blender.
 use geometry data to create 3d.
 
 - Blender Python
